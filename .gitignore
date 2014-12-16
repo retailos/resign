@@ -1,0 +1,5 @@
+*.ipa
+**/*.ipa
+
+*.plist
+**/*.plist
